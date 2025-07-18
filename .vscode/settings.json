@@ -1,0 +1,10 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"html.format.enable": true,
+	"html.format.wrapLineLength": 120,
+	"html.format.wrapAttributes": "force",
+	"editor.formatOnPaste": true,
+	"editor.insertSpaces": true,
+	"editor.tabSize": 4
+}
